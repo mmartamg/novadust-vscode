@@ -1,0 +1,22 @@
+{
+  "name": "novadust",
+  "displayName": "NOVADUST",
+  "publisher": "NOVADUST",
+  "description": "A beautiful dark blue color theme - inspired by the stars.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NOVADUST",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NOVADUST-color-theme.json"
+      }
+    ]
+  }
+}
